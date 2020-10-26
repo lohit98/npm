@@ -1,0 +1,11 @@
+{
+  "name": "lohit98",
+  "version": "1.0.0",
+  "description": "first",
+  "main": "1",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
